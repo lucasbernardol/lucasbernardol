@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 ```javascript
-console.alert('Github profile...');
+console.warn('Github profile...');
 ```
 
 <blockquote>
@@ -40,7 +40,6 @@ console.alert('Github profile...');
 <details>
   <summary>📈 Visualize algumas estatísticas do Github:</summary>
   <br/>
-
   <div>
     <a href="">
       <img src="https://github-readme-stats.vercel.app/api?username=lucasbernardol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -52,3 +51,16 @@ console.alert('Github profile...');
     </a>
   </div>
 </details>
+
+<hr />
+
+<div align="center">
+  <p>
+    <a href="https://codepen.io/lucasbernardol">
+      <img src="https://img.shields.io/badge/-lucasbernardol-05122A?style=flat&logo=codepen" />
+    </a>
+    <a href="https://www.instagram.com/lucasbernardo.lira/">
+      <img src="https://img.shields.io/badge/-lucasbernardol-05122A?style=flat&logo=instagram" />
+    </a>
+  </p>
+</div>
