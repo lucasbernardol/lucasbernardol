@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=lucasbernardol&color=5D8BF4"/>
-</div>
-
 <h2 align="left">
   Olá 👋, Lucas aqui...
 </h2>
