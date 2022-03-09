@@ -37,8 +37,6 @@ console.warn('Github profile...');
   </p>
 </div>
 
-<p><img src="https://komarev.com/ghpvc/?username=lucasbernardol&color=5D8BF4"/></p>
-
 <details>
   <summary>📈 Visualize algumas estatísticas do Github:</summary>
   <br/>
