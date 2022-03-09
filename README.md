@@ -32,7 +32,7 @@ console.warn('Github profile...');
 
 <blockquote>
   O código acima é simples, porém, me fez entrar nesse mundo cada vez mais...
- "Defenestrou" (mudou) a minha vida! (esplêndido!).
+ "Defenestrou" (mudou) a minha vida!
 </blockquote>
 
 <br />
@@ -57,10 +57,13 @@ console.warn('Github profile...');
 <div align="center">
   <p>
     <a href="https://codepen.io/lucasbernardol">
-      <img src="https://img.shields.io/badge/-lucasbernardol-05122A?style=flat&logo=codepen" />
+      <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=flat&logo=codepen" />
     </a>
     <a href="https://www.instagram.com/lucasbernardo.lira/">
-      <img src="https://img.shields.io/badge/-lucasbernardol-05122A?style=flat&logo=instagram" />
+      <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=flat&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/lucasbernardo.lira/">
+      <img src="https://img.shields.io/badge/-jose.lukass03@gmail.com-5D8BF4?style=flat&logo=Gmail&logoColor=white" />
     </a>
   </p>
 </div>
