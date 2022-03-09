@@ -30,12 +30,14 @@ Here are some ideas to get you started:
 console.warn('Github profile...');
 ```
 
-<blockquote>
-  O código acima é simples, porém, me fez entrar nesse mundo cada vez mais...
- "Defenestrou" (mudou) a minha vida!
-</blockquote>
+<div align="left">
+  <p> 
+    O código acima é simples, porém, me fez entrar nesse mundo cada vez mais...
+    "Defenestrou" (mudou) a minha vida!
+  </p>
+</div>
 
-<br />
+<p><img src="https://komarev.com/ghpvc/?username=lucasbernardol&color=5D8BF4"/></p>
 
 <details>
   <summary>📈 Visualize algumas estatísticas do Github:</summary>
@@ -65,5 +67,5 @@ console.warn('Github profile...');
     <a href="https://www.instagram.com/lucasbernardo.lira/">
       <img src="https://img.shields.io/badge/-jose.lukass03@gmail.com-5D8BF4?style=flat&logo=Gmail&logoColor=white" />
     </a>
-  </p>
+    </p>
 </div>
