@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">
-  Olá 👋, Lucas aqui...
+  Olá 🚀💻, Lucas aqui...
 </h2>
 
 <div align="left">
@@ -37,6 +37,7 @@ console.warn('Github profile...');
   </p>
 </div>
 
+
 <details>
   <summary>📈 Visualize algumas estatísticas do Github:</summary>
   <br/>
@@ -52,18 +53,27 @@ console.warn('Github profile...');
   </div>
 </details>
 
+- Informações adicionais:
+
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbernardol&theme=react&date_format=j%20M%5B%20Y%5D">
+</div>
+
 <hr />
 
 <div align="center">
   <p>
-    <a href="https://codepen.io/lucasbernardol">
+    <a target="_blank" href="https://codepen.io/lucasbernardol">
       <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=flat&logo=codepen" />
     </a>
-    <a href="https://www.instagram.com/lucasbernardo.lira/">
+    <a  target="_blank" href="https://www.instagram.com/lucasbernardo.lira/">
       <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=flat&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/lucasbernardo.lira/">
+    <a target="_blank" href="https://www.instagram.com/lucasbernardo.lira/">
       <img src="https://img.shields.io/badge/-jose.lukass03@gmail.com-5D8BF4?style=flat&logo=Gmail&logoColor=white" />
     </a>
-    </p>
+    <a target="_blank" href=" https://www.linkedin.com/in/lucasbernardol/">
+      <img src="https://img.shields.io/badge/-José Lucas-5D8BF4?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+   </p>
 </div>
