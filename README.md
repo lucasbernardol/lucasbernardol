@@ -64,16 +64,16 @@ console.warn('Github profile...');
 <div align="center">
   <p>
     <a target="_blank" href="https://codepen.io/lucasbernardol">
-      <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=flat&logo=codepen" />
+      <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=for-the-badge&logo=codepen" />
     </a>
     <a  target="_blank" href="https://www.instagram.com/lucasbernardo.lira/">
-      <img src="https://img.shields.io/badge/-lucasbernardol-5D8BF4?style=flat&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/-@lucasbernardo.lira-5D8BF4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a target="_blank" href="https://www.instagram.com/lucasbernardo.lira/">
-      <img src="https://img.shields.io/badge/-jose.lukass03@gmail.com-5D8BF4?style=flat&logo=Gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/-jose.lukass03@gmail.com-5D8BF4?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
     <a target="_blank" href=" https://www.linkedin.com/in/lucasbernardol/">
-      <img src="https://img.shields.io/badge/-José Lucas-5D8BF4?style=flat&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/-José Lucas-5D8BF4?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
    </p>
 </div>
