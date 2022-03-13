@@ -69,10 +69,10 @@ console.warn('Github profile...');
     <a  target="_blank" href="https://www.instagram.com/lucasbernardo.lira/">
       <img src="https://img.shields.io/badge/-@lucasbernardo.lira-5D8BF4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a target="_blank" href="https://www.instagram.com/lucasbernardo.lira/">
+    <a target="_blank" href="https://github.com/lucasbernardol">
       <img src="https://img.shields.io/badge/-jose.lukass03@gmail.com-5D8BF4?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-    <a target="_blank" href=" https://www.linkedin.com/in/lucasbernardol/">
+    <a target="_blank" href="https://www.linkedin.com/in/lucasbernardol/">
       <img src="https://img.shields.io/badge/-José Lucas-5D8BF4?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
    </p>
